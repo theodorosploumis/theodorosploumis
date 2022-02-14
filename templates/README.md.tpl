@@ -21,7 +21,19 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 {{range recentContributions 10}}
- - {{.Repo.URL}}) | {{humanize .OccurredAt}}
+- {{.Repo.URL}} | {{humanize .OccurredAt}}
+{{end}}
+
+## Recent releases contributed to
+
+{{range recentReleases 10}}
+ - {{.LastRelease.URL}} | {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
+## Repositories recently starred
+
+{{range recentStars 10}}
+- {{.Repo.URL}}) | {{.Repo.Stargazers}} stars
 {{end}}
 
 ---
