@@ -29,6 +29,18 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+## My recent Pull Requests
+
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+## Repositories recently starred
+
+{{range recentStars 10}}
+- {{.Repo.URL}}) - {{.Repo.Stargazers}} stars
+{{end}}
+
 ---
 
 [![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true)](https://github.com/theodorosploumis)
