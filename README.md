@@ -41,6 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
+- [immerjs/immer](https://github.com/immerjs/immer) - 22178 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
@@ -50,7 +51,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7404 stars
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - 6978 stars
-- [drunomics/lupus-nuxtjs-drupal-stack-example](https://github.com/drunomics/lupus-nuxtjs-drupal-stack-example) - 10 stars
 
 ---
 
