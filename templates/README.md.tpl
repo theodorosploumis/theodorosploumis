@@ -21,10 +21,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 {{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+ - {{.Repo.URL}}) - {{humanize .OccurredAt}}
 {{end}}
 
 ---
