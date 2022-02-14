@@ -17,7 +17,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Dribbble](https://dribbble.com/TheodorosPloumis)
 - [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)
 
-## Currently working on
+<!-- ## Currently working on
 
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -39,7 +39,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 {{range recentStars 10}}
 - {{.Repo.URL}}) - {{.Repo.Stargazers}} stars
-{{end}}
+{{end}} -->
 
 ---
 
