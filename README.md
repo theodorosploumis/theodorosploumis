@@ -17,6 +17,31 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Dribbble](https://dribbble.com/TheodorosPloumis)
 - [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)
 
+
+## Recent contributions
+
+
+ - https://github.com/enato/parents) | 2 days ago
+
+ - https://github.com/eworx-org/drupal-js) | 3 days ago
+
+ - https://github.com/theodorosploumis/awesome-drupal) | 3 days ago
+
+ - https://github.com/theodorosploumis/notes) | 1 week ago
+
+ - https://github.com/theodorosploumis/drupal-best-practices) | 1 week ago
+
+ - https://github.com/theodorosploumis/drupal-experiments) | 3 weeks ago
+
+ - https://github.com/theodorosploumis/portfolio) | 4 weeks ago
+
+ - https://github.com/drupaltools/drupaltools.github.io) | 1 month ago
+
+ - https://github.com/theodorosploumis/dev-dotfiles) | 1 month ago
+
+ - https://github.com/theodorosploumis/game-guess) | 1 month ago
+
+
 ---
 
 [![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true)](https://github.com/theodorosploumis)
