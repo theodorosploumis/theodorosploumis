@@ -33,7 +33,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 {{range recentStars 10}}
-- {{.Repo.URL}} | {{.Repo.Stargazers}} stars
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Stargazers}} stars
 {{- end}}
 
 ---
