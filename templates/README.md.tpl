@@ -17,6 +17,16 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Dribbble](https://dribbble.com/TheodorosPloumis)
 - [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)
 
+
+## Recent contributions
+
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
+
 ---
 
 [![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true)](https://github.com/theodorosploumis)
