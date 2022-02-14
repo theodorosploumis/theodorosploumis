@@ -49,7 +49,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7289 stars
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 822 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
-- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7404 stars
+- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7405 stars
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - 6979 stars
 
 ---
