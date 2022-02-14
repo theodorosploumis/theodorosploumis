@@ -21,20 +21,20 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 {{range recentContributions 10}}
-- {{.Repo.URL}} | {{humanize .OccurredAt}}
-{{end}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 ## Recent releases contributed to
 
 {{range recentReleases 10}}
- - {{.LastRelease.URL}} | {{humanize .LastRelease.PublishedAt}}
-{{end}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
 
 ## Repositories recently starred
 
 {{range recentStars 10}}
-- {{.Repo.URL}}) | {{.Repo.Stargazers}} stars
-{{end}}
+- {{.Repo.URL}} | {{.Repo.Stargazers}} stars
+{{- end}}
 
 ---
 
