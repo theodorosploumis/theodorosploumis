@@ -41,6 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
+- [ngneat/falso](https://github.com/ngneat/falso) - 2010 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8442 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22194 stars
@@ -50,7 +51,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17128 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7288 stars
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
-- [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 2 stars
 
 ---
 
