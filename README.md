@@ -21,7 +21,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 
-- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a Javascript framework frontend (today)
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
 - [enato/parents](https://github.com/enato/parents) -  (3 days ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (4 days ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (1 week ago)
@@ -45,7 +45,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17125 stars
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17126 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7288 stars
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
