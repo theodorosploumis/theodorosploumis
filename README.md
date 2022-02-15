@@ -41,7 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [immerjs/immer](https://github.com/immerjs/immer) - 22182 stars
+- [immerjs/immer](https://github.com/immerjs/immer) - 22183 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
