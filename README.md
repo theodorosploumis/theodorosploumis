@@ -47,7 +47,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17124 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7289 stars
-- [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 822 stars
+- [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7405 stars
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - 6979 stars
