@@ -41,16 +41,16 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
+- [gregberge/svgr](https://github.com/gregberge/svgr) - 8442 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22190 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17126 stars
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17127 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7288 stars
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
-- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7405 stars
 
 ---
 
