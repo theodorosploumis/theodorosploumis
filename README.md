@@ -41,11 +41,11 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [immerjs/immer](https://github.com/immerjs/immer) - 22181 stars
+- [immerjs/immer](https://github.com/immerjs/immer) - 22182 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17125 stars
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17124 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7289 stars
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 822 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
