@@ -41,7 +41,8 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [ngneat/falso](https://github.com/ngneat/falso) - 2010 stars
+- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10314 stars
+- [ngneat/falso](https://github.com/ngneat/falso) - 2012 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8442 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22194 stars
@@ -50,7 +51,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17129 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7288 stars
-- [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
 
 ---
 
