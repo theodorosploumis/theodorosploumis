@@ -41,7 +41,8 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [immerjs/immer](https://github.com/immerjs/immer) - 22186 stars
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
+- [immerjs/immer](https://github.com/immerjs/immer) - 22187 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
@@ -50,7 +51,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [KittyGiraudel/sass-guidelines](https://github.com/KittyGiraudel/sass-guidelines) - 823 stars
 - [Jscherbe/webpack-mixin](https://github.com/Jscherbe/webpack-mixin) - 1 stars
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - 7405 stars
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - 6979 stars
 
 ---
 
