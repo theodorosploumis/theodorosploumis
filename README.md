@@ -41,7 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10315 stars
+- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10316 stars
 - [ngneat/falso](https://github.com/ngneat/falso) - 2012 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8443 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
