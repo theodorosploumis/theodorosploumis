@@ -43,7 +43,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8442 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 3 stars
-- [immerjs/immer](https://github.com/immerjs/immer) - 22191 stars
+- [immerjs/immer](https://github.com/immerjs/immer) - 22192 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
