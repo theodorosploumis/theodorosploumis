@@ -42,7 +42,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10321 stars
-- [ngneat/falso](https://github.com/ngneat/falso) - 2018 stars
+- [ngneat/falso](https://github.com/ngneat/falso) - 2019 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8445 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22204 stars
