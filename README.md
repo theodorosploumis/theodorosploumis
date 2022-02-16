@@ -49,7 +49,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17134 stars
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17135 stars
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7289 stars
 
 ---
