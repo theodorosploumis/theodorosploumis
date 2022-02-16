@@ -41,7 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
-- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10318 stars
+- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10319 stars
 - [ngneat/falso](https://github.com/ngneat/falso) - 2015 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8444 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
@@ -50,7 +50,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17138 stars
-- [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7289 stars
+- [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - 7290 stars
 
 ---
 
