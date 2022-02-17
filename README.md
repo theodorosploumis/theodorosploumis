@@ -35,7 +35,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent releases contributed to
 
 
-- [mautic/mautic](https://github.com/mautic/mautic) ([4.1.2](https://github.com/mautic/mautic/releases/tag/4.1.2), 3 weeks ago) - Mautic: Open Source Marketing Automation Software.
+- [mautic/mautic](https://github.com/mautic/mautic) ([4.2.0-rc1](https://github.com/mautic/mautic/releases/tag/4.2.0-rc1), today) - Mautic: Open Source Marketing Automation Software.
 - [theodorosploumis/distros.bid](https://github.com/theodorosploumis/distros.bid) ([v1.2](https://github.com/theodorosploumis/distros.bid/releases/tag/v1.2), 4 years ago) - A saas to create drupal websites in seconds using docker containers.
 
 ## Repositories recently starred
@@ -44,8 +44,8 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - 4848 stars
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8030 stars
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10323 stars
-- [ngneat/falso](https://github.com/ngneat/falso) - 2029 stars
-- [gregberge/svgr](https://github.com/gregberge/svgr) - 8446 stars
+- [ngneat/falso](https://github.com/ngneat/falso) - 2030 stars
+- [gregberge/svgr](https://github.com/gregberge/svgr) - 8447 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22209 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
