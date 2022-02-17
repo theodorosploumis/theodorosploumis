@@ -41,6 +41,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Repositories recently starred
 
 
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - 4848 stars
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8029 stars
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10323 stars
 - [ngneat/falso](https://github.com/ngneat/falso) - 2028 stars
@@ -50,7 +51,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - 17140 stars
 
 ---
 
