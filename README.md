@@ -44,10 +44,10 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - 4848 stars
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8029 stars
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10323 stars
-- [ngneat/falso](https://github.com/ngneat/falso) - 2028 stars
+- [ngneat/falso](https://github.com/ngneat/falso) - 2029 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8446 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
-- [immerjs/immer](https://github.com/immerjs/immer) - 22208 stars
+- [immerjs/immer](https://github.com/immerjs/immer) - 22209 stars
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
