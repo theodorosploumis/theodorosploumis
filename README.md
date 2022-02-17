@@ -4,6 +4,10 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
+[![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true&&theme=radical)](https://github.com/theodorosploumis)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosploumis&layout=compact&theme=radical)](https://github.com/theodorosploumis?tab=repositories)
+
 ## Profiles & Accounts
 
 - [Website](http://www.theodorosploumis.com/en)
@@ -16,7 +20,6 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [Behance](http://be.net/TheodorosPloumis)
 - [Dribbble](https://dribbble.com/TheodorosPloumis)
 - [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)
-
 
 ## Recent contributions
 
@@ -31,27 +34,3 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (1 month ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 150 Open-source tools used for Drupal related tasks. (1 month ago)
 - [theodorosploumis/dev-dotfiles](https://github.com/theodorosploumis/dev-dotfiles) - Dotfiles for online services (I use it for Gitpod.io) (1 month ago)
-
-## Recent releases contributed to
-
-
-- [mautic/mautic](https://github.com/mautic/mautic) ([4.2.0-rc1](https://github.com/mautic/mautic/releases/tag/4.2.0-rc1), today) - Mautic: Open Source Marketing Automation Software.
-- [theodorosploumis/distros.bid](https://github.com/theodorosploumis/distros.bid) ([v1.2](https://github.com/theodorosploumis/distros.bid/releases/tag/v1.2), 4 years ago) - A saas to create drupal websites in seconds using docker containers.
-
-## Repositories recently starred
-
-
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - 4848 stars
-- [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8030 stars
-- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10325 stars
-- [ngneat/falso](https://github.com/ngneat/falso) - 2032 stars
-- [gregberge/svgr](https://github.com/gregberge/svgr) - 8449 stars
-- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
-- [immerjs/immer](https://github.com/immerjs/immer) - 22209 stars
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - 272 stars
-- [muesli/markscribe](https://github.com/muesli/markscribe) - 187 stars
-- [drupol/php-conventions](https://github.com/drupol/php-conventions) - 4 stars
-
----
-
-[![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true)](https://github.com/theodorosploumis)
