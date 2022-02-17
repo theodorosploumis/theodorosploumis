@@ -24,13 +24,13 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 
-- [hack-tools/hackorganizing](https://github.com/hack-tools/hackorganizing) - A list of needs, lists, tips and helpful resources to organize and run a Hackathon. (today)
-- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (today)
+- [theodorosploumis/soda-drupal-distribution](https://github.com/theodorosploumis/soda-drupal-distribution) - Small Open Data framework - a Drupal 7.x profile (today)
 - [theodorosploumis/docker-presentation](https://github.com/theodorosploumis/docker-presentation) - An introduction to Docker for developers. (today)
+- [hack-tools/hackorganizing](https://github.com/hack-tools/hackorganizing) - A list of needs, lists, tips and helpful resources to organize and run a Hackathon. (today)
 - [sxoligoneon/website](https://github.com/sxoligoneon/website) -  (today)
+- [enato/parents](https://github.com/enato/parents) -  (today)
+- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (today)
+- [theodorosploumis/parents-website](https://github.com/theodorosploumis/parents-website) - Gatsby, netlify, markdown (today)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (today)
-- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (today)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
-- [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (today)
-- [enato/parents](https://github.com/enato/parents) -  (5 days ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 weeks ago)
+- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (today)
