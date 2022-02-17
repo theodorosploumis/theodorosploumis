@@ -24,7 +24,9 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 ## Recent contributions
 
 
+- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (today)
 - [theodorosploumis/docker-presentation](https://github.com/theodorosploumis/docker-presentation) - An introduction to Docker for developers. (today)
+- [hack-tools/hackorganizing](https://github.com/hack-tools/hackorganizing) - A list of needs, lists, tips and helpful resources to organize and run a Hackathon. (today)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (today)
 - [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (today)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
@@ -32,5 +34,3 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 - [enato/parents](https://github.com/enato/parents) -  (5 days ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 weeks ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for developing a Drupal (8.x) website. (2 weeks ago)
-- [theodorosploumis/drupal-experiments](https://github.com/theodorosploumis/drupal-experiments) - Trying to demonstrate GitHub actions, ddev in Gitpod, git-hooks and more for a Drupal 9.x project (1 month ago)
-- [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (1 month ago)
