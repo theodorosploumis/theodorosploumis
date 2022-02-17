@@ -42,7 +42,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - 4848 stars
-- [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8029 stars
+- [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8030 stars
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10323 stars
 - [ngneat/falso](https://github.com/ngneat/falso) - 2029 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8446 stars
