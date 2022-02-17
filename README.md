@@ -22,15 +22,15 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (today)
+- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (today)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
 - [enato/parents](https://github.com/enato/parents) -  (5 days ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 weeks ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for developing a Drupal (8.x) website. (2 weeks ago)
 - [theodorosploumis/drupal-experiments](https://github.com/theodorosploumis/drupal-experiments) - Trying to demonstrate GitHub actions, ddev in Gitpod, git-hooks and more for a Drupal 9.x project (1 month ago)
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (1 month ago)
-- [theodorosploumis/dev-dotfiles](https://github.com/theodorosploumis/dev-dotfiles) - Dotfiles for online services (I use it for Gitpod.io) (1 month ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 150 Open-source tools used for Drupal related tasks. (1 month ago)
-- [theodorosploumis/game-guess](https://github.com/theodorosploumis/game-guess) - An educational printable, board game based on math, logic and imagination. (1 month ago)
+- [theodorosploumis/dev-dotfiles](https://github.com/theodorosploumis/dev-dotfiles) - Dotfiles for online services (I use it for Gitpod.io) (1 month ago)
 
 ## Recent releases contributed to
 
