@@ -43,7 +43,7 @@ Check my [complete Portfolio](https://theodorosploumis.github.io/portfolio).
 
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - 8029 stars
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 10323 stars
-- [ngneat/falso](https://github.com/ngneat/falso) - 2027 stars
+- [ngneat/falso](https://github.com/ngneat/falso) - 2028 stars
 - [gregberge/svgr](https://github.com/gregberge/svgr) - 8446 stars
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - 4 stars
 - [immerjs/immer](https://github.com/immerjs/immer) - 22207 stars
