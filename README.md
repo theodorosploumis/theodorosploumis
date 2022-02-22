@@ -26,13 +26,13 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (today)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 days ago)
-- [enato/parents](https://github.com/enato/parents) -  (4 days ago)
-- [theodorosploumis/parents-website](https://github.com/theodorosploumis/parents-website) - Gatsby, netlify, markdown (4 days ago)
 - [theodorosploumis/docker-presentation](https://github.com/theodorosploumis/docker-presentation) - An introduction to Docker for developers. (4 days ago)
-- [sxoligoneon/website](https://github.com/sxoligoneon/website) -  (4 days ago)
-- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (4 days ago)
-- [hack-tools/hackorganizing](https://github.com/hack-tools/hackorganizing) - A list of needs, lists, tips and helpful resources to organize and run a Hackathon. (4 days ago)
-- [theodorosploumis/manystories-drupal-profile](https://github.com/theodorosploumis/manystories-drupal-profile) - A Drupal 7.x profile for a 2016 hackathon under open data. (4 days ago)
-- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (4 days ago)
+- [theodorosploumis/parents-website](https://github.com/theodorosploumis/parents-website) - Gatsby, netlify, markdown (4 days ago)
 - [theodorosploumis/soda-drupal-distribution](https://github.com/theodorosploumis/soda-drupal-distribution) - Small Open Data framework - a Drupal 7.x profile (4 days ago)
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (4 days ago)
+- [theodorosploumis/manystories-drupal-profile](https://github.com/theodorosploumis/manystories-drupal-profile) - A Drupal 7.x profile for a 2016 hackathon under open data. (4 days ago)
+- [sxoligoneon/website](https://github.com/sxoligoneon/website) -  (4 days ago)
+- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (4 days ago)
+- [enato/parents](https://github.com/enato/parents) -  (4 days ago)
