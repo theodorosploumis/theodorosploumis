@@ -27,10 +27,10 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (today)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 day ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for developing a Drupal (8.x) website. (2 days ago)
 - [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (2 days ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (4 days ago)
 - [theodorosploumis/docker-presentation](https://github.com/theodorosploumis/docker-presentation) - An introduction to Docker for developers. (6 days ago)
 - [theodorosploumis/parents-website](https://github.com/theodorosploumis/parents-website) - Gatsby, netlify, markdown (6 days ago)
 - [theodorosploumis/soda-drupal-distribution](https://github.com/theodorosploumis/soda-drupal-distribution) - Small Open Data framework - a Drupal 7.x profile (6 days ago)
