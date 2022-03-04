@@ -36,3 +36,11 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/soda-drupal-distribution](https://github.com/theodorosploumis/soda-drupal-distribution) - Small Open Data framework - a Drupal 7.x profile (2 weeks ago)
 - [theodorosploumis/manystories-drupal-profile](https://github.com/theodorosploumis/manystories-drupal-profile) - A Drupal 7.x profile for a 2016 hackathon under open data. (2 weeks ago)
 - [enato/parents](https://github.com/enato/parents) -  (2 weeks ago)
+
+## Special thanks to
+
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/muesli/markscribe
+- https://github.com/muesli/readme-scribe
+
+who provided the amazing tools to generate this dynamic README!
