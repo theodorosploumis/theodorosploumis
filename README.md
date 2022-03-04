@@ -8,16 +8,13 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 ## Profiles & Accounts
 
-- [Website](http://www.theodorosploumis.com/en)
-- [GitHub](https://github.com/theodorosploumis)
-- [Drupal.org](https://www.drupal.org/u/theodorosploumis)
-- [Twitter](https://twitter.com/theoploumis)
-- [LinkedIn](http://gr.linkedin.com/in/theodorosploumis)
-- [StackExchange](http://stackexchange.com/users/1447199/theodorosploumis)
-- [Pinterest](http://pinterest.com/theoploumis)
-- [Behance](http://be.net/TheodorosPloumis)
-- [Dribbble](https://dribbble.com/TheodorosPloumis)
-- [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)
+| **Development**                                                          | **Design**                                        | **Social**                                             |
+|--------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------|
+| [Website](http://www.theodorosploumis.com/en)                            | [Dribbble](https://dribbble.com/TheodorosPloumis) | [LinkedIn](http://gr.linkedin.com/in/theodorosploumis) |
+| [Drupal.org](https://www.drupal.org/u/theodorosploumis)                  | [Pinterest](http://pinterest.com/theoploumis)     | [Twitter](https://twitter.com/theoploumis)             |
+| [GitHub](https://github.com/theodorosploumis)                            | [Behance](http://be.net/TheodorosPloumis)         |                                                        |
+| [StackExchange](http://stackexchange.com/users/1447199/theodorosploumis) |                                                   |                                                        |
+| [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)   |                                                   |                                                        |
 
 ## Portfolio
 
