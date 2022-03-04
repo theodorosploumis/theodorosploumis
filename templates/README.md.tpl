@@ -28,3 +28,11 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
+
+## Special thanks to
+
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/muesli/markscribe
+- https://github.com/muesli/readme-scribe
+
+who provided the amazing tools to generate this dynamic README!
