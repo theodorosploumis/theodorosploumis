@@ -30,8 +30,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  (3 weeks ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (3 weeks ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for developing a Drupal (8.x) website. (3 weeks ago)
-- [theodorosploumis/soda-drupal-distribution](https://github.com/theodorosploumis/soda-drupal-distribution) - Small Open Data framework - a Drupal 7.x profile (1 month ago)
 - [theodorosploumis/manystories-drupal-profile](https://github.com/theodorosploumis/manystories-drupal-profile) - A Drupal 7.x profile for a 2016 hackathon under open data. (1 month ago)
+- [theodorosploumis/parents-website](https://github.com/theodorosploumis/parents-website) - Gatsby, netlify, markdown (1 month ago)
 - [enato/parents](https://github.com/enato/parents) -  (1 month ago)
 
 ## Special thanks to
