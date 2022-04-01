@@ -32,7 +32,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  (1 month ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 month ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for developing a Drupal (8.x) website. (1 month ago)
-- [hack-tools/hacktools](https://github.com/hack-tools/hacktools) - Tools, software and services to create a fast MVP, useful for Hackathon attendees. (1 month ago)
+- [hack-tools/hackorganizing](https://github.com/hack-tools/hackorganizing) - A list of needs, lists, tips and helpful resources to organize and run a Hackathon. (1 month ago)
 
 ## Special thanks to
 
