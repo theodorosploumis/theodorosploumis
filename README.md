@@ -23,8 +23,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
-- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. Contains ready to use templates for Drupal projects. (1 day ago)
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (1 day ago)
+- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. Contains ready to use templates for Drupal projects. (2 days ago)
 - [theodorosploumis/sxoligoneon.gr](https://github.com/theodorosploumis/sxoligoneon.gr) -  (2 weeks ago)
 - [theodorosploumis/3x3.gr](https://github.com/theodorosploumis/3x3.gr) -  (2 weeks ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 weeks ago)
