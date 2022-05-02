@@ -28,7 +28,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/3x3.gr](https://github.com/theodorosploumis/3x3.gr) -  (1 month ago)
 - [theodorosploumis/sxoligoneon.gr](https://github.com/theodorosploumis/sxoligoneon.gr) -  (1 month ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (1 month ago)
-- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (1 month ago)
+- [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (2 months ago)
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (2 months ago)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  (2 months ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (2 months ago)
