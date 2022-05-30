@@ -24,9 +24,9 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 
 - [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (1 week ago)
-- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (2 weeks ago)
-- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (2 weeks ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (2 weeks ago)
+- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (3 weeks ago)
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (3 weeks ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (3 weeks ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (1 month ago)
 - [theodorosploumis/sxoligoneon.gr](https://github.com/theodorosploumis/sxoligoneon.gr) -  (2 months ago)
 - [theodorosploumis/3x3.gr](https://github.com/theodorosploumis/3x3.gr) -  (2 months ago)
