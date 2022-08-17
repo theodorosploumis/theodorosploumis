@@ -23,16 +23,16 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (today)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (today)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (1 day ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (today)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (1 week ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (1 month ago)
 - [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (3 months ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (3 months ago)
-- [theodorosploumis/sxoligoneon.gr](https://github.com/theodorosploumis/sxoligoneon.gr) -  (4 months ago)
 - [theodorosploumis/3x3.gr](https://github.com/theodorosploumis/3x3.gr) -  (4 months ago)
+- [theodorosploumis/sxoligoneon.gr](https://github.com/theodorosploumis/sxoligoneon.gr) -  (4 months ago)
 - [eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors) - A list of Drupal 8.x &#43; solutions for content authoring and site building. (5 months ago)
-- [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (5 months ago)
 
 ## Special thanks to
 
