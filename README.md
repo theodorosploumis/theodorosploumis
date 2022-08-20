@@ -23,7 +23,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 150 Open-source tools used for Drupal related tasks. (today)
+- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 163 Open-source tools used for Drupal related tasks. (today)
 - [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (2 days ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (3 days ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (3 days ago)
