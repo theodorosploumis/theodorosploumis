@@ -23,6 +23,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (today)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (5 days ago)
 - [theodorosploumis/drupal-experiments](https://github.com/theodorosploumis/drupal-experiments) - Trying to demonstrate GitHub actions, ddev in Gitpod, git-hooks and more for a Drupal 9.x project (1 week ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 163 Open-source tools used for Drupal related tasks. (1 week ago)
@@ -32,7 +33,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (3 weeks ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (1 month ago)
 - [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (3 months ago)
-- [theodorosploumis/3x3.gr](https://github.com/theodorosploumis/3x3.gr) -  (5 months ago)
 
 ## Special thanks to
 
