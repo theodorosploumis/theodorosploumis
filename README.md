@@ -23,8 +23,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (today)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (today)
-- [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (2 days ago)
 - [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (4 days ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 week ago)
 - [theodorosploumis/drupal-experiments](https://github.com/theodorosploumis/drupal-experiments) - Trying to demonstrate GitHub actions, ddev in Gitpod, git-hooks and more for a Drupal 9.x project (1 week ago)
