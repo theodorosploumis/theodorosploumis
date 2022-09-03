@@ -23,6 +23,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/dev-dotfiles](https://github.com/theodorosploumis/dev-dotfiles) - Dotfiles for online services (I use it for Gitpod.io) (today)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 day ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - My Personal notes regarding Work, Drupal, Project management and more. (1 day ago)
 - [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (5 days ago)
@@ -32,7 +33,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (2 weeks ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (1 month ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (1 month ago)
-- [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (3 months ago)
 
 ## Special thanks to
 
