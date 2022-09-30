@@ -23,13 +23,13 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management and more. (1 day ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management and more. (2 days ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (2 weeks ago)
 - [theodorosploumis/frontpassion](https://github.com/theodorosploumis/frontpassion) -  (2 weeks ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (2 weeks ago)
-- [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (2 weeks ago)
+- [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (3 weeks ago)
 - [theodorosploumis/dev-dotfiles](https://github.com/theodorosploumis/dev-dotfiles) - Dotfiles for online services (I use it for Gitpod.io) (3 weeks ago)
-- [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (3 weeks ago)
+- [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (4 weeks ago)
 - [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (1 month ago)
 - [theodorosploumis/drupal-experiments](https://github.com/theodorosploumis/drupal-experiments) - Trying to demonstrate GitHub actions, ddev in Gitpod, git-hooks and more for a Drupal 9.x project (1 month ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - 163 Open-source tools used for Drupal related tasks. (1 month ago)
