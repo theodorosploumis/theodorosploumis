@@ -2,9 +2,11 @@
 
 Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https://www.eworx.gr).
 
-[![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true&&theme=radical)](https://github.com/theodorosploumis)
+## Portfolio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosploumis&layout=compact&theme=radical)](https://github.com/theodorosploumis?tab=repositories)
+- https://theodorosploumis.github.io/portfolio
+
+[![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true&&theme=radical)](https://github.com/theodorosploumis)
 
 ## Profiles & Accounts
 
@@ -15,10 +17,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 | [GitHub](https://github.com/theodorosploumis)                            | [Behance](http://be.net/TheodorosPloumis)         |                                                        |
 | [StackExchange](http://stackexchange.com/users/1447199/theodorosploumis) |                                                   |                                                        |
 | [Stackshare.io](https://stackshare.io/theodorosploumis/personal-stack)   |                                                   |                                                        |
-
-## Portfolio
-
-- https://theodorosploumis.github.io/portfolio
 
 ## Recent contributions
 
