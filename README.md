@@ -2,7 +2,9 @@
 
 Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https://www.eworx.gr).
 
-## [theodorosploumis.github.io/portfolio](https://theodorosploumis.github.io/portfolio)
+## Portfolio
+
+- https://theodorosploumis.github.io/portfolio
 
 [![TheodorosPloumis github stats](https://github-readme-stats.vercel.app/api?username=theodorosploumis&count_private=true&show_icons=true&&theme=radical)](https://github.com/theodorosploumis)
 
