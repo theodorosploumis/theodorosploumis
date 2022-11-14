@@ -21,7 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (today)
+- [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (1 day ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management and more. (1 week ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (2 weeks ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (3 weeks ago)
