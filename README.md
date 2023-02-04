@@ -21,9 +21,9 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management and more. (1 day ago)
-- [theodorosploumis/generate_drupal_report](https://github.com/theodorosploumis/generate_drupal_report) - A bash script that generates basic Drupal 8.x packages &amp; modules report in txt files. (1 day ago)
-- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (2 days ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management and more. (2 days ago)
+- [theodorosploumis/generate_drupal_report](https://github.com/theodorosploumis/generate_drupal_report) - A bash script that generates basic Drupal 8.x packages &amp; modules report in txt files. (2 days ago)
+- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (3 days ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (2 weeks ago)
 - [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (2 weeks ago)
 - [serrestech/website](https://github.com/serrestech/website) - The content that creates the website at (1 month ago)
