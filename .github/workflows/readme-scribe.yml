@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   markscribe:
@@ -21,7 +21,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.THREE_MONTHS_TOKEN }}
         with:
           commit_message: Update generated README
           branch: master
