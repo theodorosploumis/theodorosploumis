@@ -30,4 +30,4 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - https://github.com/muesli/markscribe
 - https://github.com/muesli/readme-scribe
 
-who provided the amazing tools to generate this dynamic README!
+for providing the amazing tools above to generate the dynamic README!
