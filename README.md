@@ -1,6 +1,6 @@
 # Theodoros Ploumis (he/him)
 
-Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https://www.eworx.gr).
+Hi, I am a full stack **Drupal developer** working for [www.eworx.gr](https://www.eworx.gr).
 
 ## Portfolio
 
