@@ -21,8 +21,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (1 day ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (4 days ago)
+- [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (2 days ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (5 days ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 week ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 week ago)
 - [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (3 weeks ago)
@@ -30,7 +30,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs (1 month ago)
 - [theodorosploumis/drupal-mcp](https://github.com/theodorosploumis/drupal-mcp) -  (2 months ago)
 - [theodorosploumis/stand-with-cyprus](https://github.com/theodorosploumis/stand-with-cyprus) - #StandWithCyprus composer message (4 months ago)
-- [theodorosploumis/tplcom.work](https://github.com/theodorosploumis/tplcom.work) - Playing with Cloudflare pages.dev (7 months ago)
+- [theodorosploumis/tplcom.work](https://github.com/theodorosploumis/tplcom.work) - Playing with Cloudflare pages.dev (8 months ago)
 
 ## Special thanks to
 
