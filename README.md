@@ -21,6 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (today)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 day ago)
 - [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (1 week ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 weeks ago)
@@ -30,7 +31,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs (1 month ago)
 - [theodorosploumis/drupal-mcp](https://github.com/theodorosploumis/drupal-mcp) -  (2 months ago)
 - [theodorosploumis/stand-with-cyprus](https://github.com/theodorosploumis/stand-with-cyprus) - #StandWithCyprus composer message (4 months ago)
-- [theodorosploumis/tplcom.work](https://github.com/theodorosploumis/tplcom.work) - Playing with Cloudflare pages.dev (8 months ago)
 
 ## Special thanks to
 
