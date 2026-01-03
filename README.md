@@ -29,8 +29,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/drupal-report](https://github.com/theodorosploumis/drupal-report) - How to estimate the costs and time needed to fix issues or provide a RFP on a Drupal website you did not develop. (1 month ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 month ago)
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs (1 month ago)
-- [theodorosploumis/drupal-mcp](https://github.com/theodorosploumis/drupal-mcp) -  (2 months ago)
 - [theodorosploumis/stand-with-cyprus](https://github.com/theodorosploumis/stand-with-cyprus) - #StandWithCyprus composer message (4 months ago)
+- [theodorosploumis/tplcom.work](https://github.com/theodorosploumis/tplcom.work) - Playing with Cloudflare pages.dev (8 months ago)
 
 ## Special thanks to
 
