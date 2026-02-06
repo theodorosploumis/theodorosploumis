@@ -25,7 +25,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (6 days ago)
 - [theodorosploumis/drupal-modules](https://github.com/theodorosploumis/drupal-modules) - A ddev ready envitonment I use to develop, test, update my Drupal contrib modules. May not work for you in some cases. (1 week ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 weeks ago)
-- [21st-dev/1code](https://github.com/21st-dev/1code) - Best UI for Claude Code (2 weeks ago)
+- [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Codes) (2 weeks ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (1 month ago)
 - [theodorosploumis/styleguide](https://github.com/theodorosploumis/styleguide) - HTML elements demo codes (1 month ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 month ago)
