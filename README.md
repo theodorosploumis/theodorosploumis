@@ -21,10 +21,10 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [mglaman/drupalorg-cli](https://github.com/mglaman/drupalorg-cli) - A command line tool for interfacing with Drupal.org (today)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (1 day ago)
-- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (2 days ago)
-- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (2 days ago)
+- [mglaman/drupalorg-cli](https://github.com/mglaman/drupalorg-cli) - A command line tool for interfacing with Drupal.org (1 day ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 days ago)
+- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (3 days ago)
+- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (3 days ago)
 - [drupaltools/drupal-toolkit](https://github.com/drupaltools/drupal-toolkit) - A PHPStorm plugin to help Drupal project maintainers on every day tasks (1 week ago)
 - [theodorosploumis/drupal-modules](https://github.com/theodorosploumis/drupal-modules) - A ddev ready envitonment I use to develop, test, update my Drupal contrib modules. May not work for you in some cases. (1 week ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (2 weeks ago)
