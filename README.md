@@ -23,7 +23,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (today)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (2 days ago)
-- [drupaltools/drupal-tip-generator](https://github.com/drupaltools/drupal-tip-generator) - A Drupal tips generator script, SKILL and service together (3 days ago)
+- [drupaltools/tip-generator](https://github.com/drupaltools/tip-generator) - A Drupal tips generator script, SKILL and service together (3 days ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (4 days ago)
 - [mglaman/drupalorg-cli](https://github.com/mglaman/drupalorg-cli) - A command line tool for interfacing with Drupal.org (1 week ago)
 - [drupaltools/drupal-toolkit](https://github.com/drupaltools/drupal-toolkit) - A PHPStorm plugin to help Drupal project maintainers on every day tasks (2 weeks ago)
