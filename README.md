@@ -21,6 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (today)
 - [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills for AI work (1 day ago)
 - [drupaltools/tip-generator](https://github.com/drupaltools/tip-generator) - A Drupal tips generator script, SKILL and service together (3 days ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (5 days ago)
@@ -30,7 +31,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [drupaltools/drupal-toolkit](https://github.com/drupaltools/drupal-toolkit) - A PHPStorm plugin to help Drupal project maintainers on every day tasks (3 weeks ago)
 - [theodorosploumis/drupal-modules](https://github.com/theodorosploumis/drupal-modules) - A ddev ready envitonment I use to develop, test, update my Drupal contrib modules. May not work for you in some cases. (3 weeks ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (3 weeks ago)
-- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (4 weeks ago)
 
 ## Special thanks to
 
