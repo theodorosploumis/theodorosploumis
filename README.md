@@ -21,8 +21,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (today)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 day ago)
-- [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills for AI work (1 day ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 days ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (2 days ago)
 - [drupaltools/tip-generator](https://github.com/drupaltools/tip-generator) - A Drupal tips generator script, SKILL and service together (5 days ago)
