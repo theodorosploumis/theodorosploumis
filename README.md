@@ -21,6 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/drupal_news](https://github.com/theodorosploumis/drupal_news) - A Drupal news aggregator as an experiment of using AI on cli (today)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 day ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (3 days ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 week ago)
@@ -30,7 +31,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 month ago)
 - [drupaltools/tip-generator](https://github.com/drupaltools/tip-generator) - A Drupal tips generator script, SKILL and service together (1 month ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (1 month ago)
-- [mglaman/drupalorg-cli](https://github.com/mglaman/drupalorg-cli) - A command line tool for interfacing with Drupal.org (2 months ago)
 
 ## Special thanks to
 
