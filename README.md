@@ -21,10 +21,10 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (today)
 - [theodorosploumis/drupal_news](https://github.com/theodorosploumis/drupal_news) - A Drupal news aggregator as an experiment of using AI on cli (1 week ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (1 week ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (2 weeks ago)
-- [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (1 month ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (1 month ago)
 - [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) - Best practices to integrate a Drupal 8.x&#43; backend with a JavaScript framework frontend (2 months ago)
 - [drupaltools/tools](https://github.com/drupaltools/tools) - A monorepo with useful tools and experiments for Drupal development. (2 months ago)
