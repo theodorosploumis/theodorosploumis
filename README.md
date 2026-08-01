@@ -21,7 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci) - Extended version docker:latest with ddev (today)
+- [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci) - Extended version docker:latest with ddev (1 day ago)
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (1 week ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 weeks ago)
 - [theodorosploumis/drupal_news](https://github.com/theodorosploumis/drupal_news) - A Drupal news aggregator as an experiment of using AI on cli (2 weeks ago)
