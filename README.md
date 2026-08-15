@@ -23,8 +23,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 
 - [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci) - Extended version docker:latest with ddev (2 weeks ago)
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (3 weeks ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (4 weeks ago)
-- [theodorosploumis/drupal_news](https://github.com/theodorosploumis/drupal_news) - A Drupal news aggregator as an experiment of using AI on cli (4 weeks ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (1 month ago)
+- [theodorosploumis/drupal_news](https://github.com/theodorosploumis/drupal_news) - A Drupal news aggregator as an experiment of using AI on cli (1 month ago)
 - [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (1 month ago)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 month ago)
 - [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices) - Opinion based, short list with common best practices for Drupal. (2 months ago)
