@@ -21,9 +21,9 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (6 days ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (1 week ago)
-- [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual) - A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers). (1 week ago)
+- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 week ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (2 weeks ago)
+- [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual) - A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers). (2 weeks ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (3 weeks ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (3 weeks ago)
 - [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci) - Extended version docker:latest with ddev (1 month ago)
