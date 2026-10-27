@@ -21,13 +21,13 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (4 days ago)
-- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (5 days ago)
+- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (5 days ago)
+- [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (6 days ago)
 - [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (1 week ago)
-- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (2 weeks ago)
+- [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (3 weeks ago)
 - [theodorosploumis/veo-script](https://github.com/theodorosploumis/veo-script) -  (1 month ago)
 - [drupaltools/catalog](https://github.com/drupaltools/catalog) - Catalog of tools, skills and agents built by the drupaltools organisation (1 month ago)
-- [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual) - A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers). (1 month ago)
+- [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual) - A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers). (2 months ago)
 - [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (2 months ago)
 - [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci) - Extended version docker:latest with ddev (2 months ago)
 - [theodorosploumis/portfolio](https://github.com/theodorosploumis/portfolio) - My personal portfolio. Projects, scripts, Drupal modules, Presentations etc. (3 months ago)
