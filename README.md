@@ -21,8 +21,8 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
-- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (today)
-- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (today)
+- [theodorosploumis/awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS. (1 day ago)
+- [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 day ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (1 week ago)
 - [drupaltools/skills](https://github.com/drupaltools/skills) - Drupal related skills and agents for AI work (2 weeks ago)
 - [theodorosploumis/php-docs](https://github.com/theodorosploumis/php-docs) - A simple web tool to create html docs under git from structured markdown files. (3 weeks ago)
