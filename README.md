@@ -21,6 +21,7 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 ## Recent contributions
 
 
+- [theodorosploumis/greek-fonts](https://github.com/theodorosploumis/greek-fonts) - Awesome Greek Fonts list (today)
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks. (1 week ago)
 - [theodorosploumis/notes](https://github.com/theodorosploumis/notes) - Personal notes regarding Drupal, Project management, Tools, Skills and more. (3 weeks ago)
 - [theodorosploumis/drupal-modules](https://github.com/theodorosploumis/drupal-modules) - A ddev ready envitonment I use to develop, test, update my Drupal contrib modules. May not work for you in some cases. (3 weeks ago)
@@ -30,7 +31,6 @@ Hi, I am a full stack **Drupal developer** and I work for [www.eworx.gr](https:/
 - [theodorosploumis/veo-script](https://github.com/theodorosploumis/veo-script) -  (2 months ago)
 - [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) - A curated list of AI tools, skills, plugins, modules, and resources for Drupal development and site building. (2 months ago)
 - [drupaltools/catalog](https://github.com/drupaltools/catalog) - Catalog of tools, skills and agents built by the drupaltools organisation (2 months ago)
-- [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual) - A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers). (3 months ago)
 
 ## Special thanks to
 
